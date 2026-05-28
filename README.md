@@ -14,3 +14,4 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Embedded C, C, Python, SOME/IP**
 
 - 📫 How to reach me **abkraaz@gmail.com**
+<meta name="google-site-verification" content="iu2Lq9ZV4FX0GBEz76p2unbiAS8Rcz4C47_GA4vfyv0" />
